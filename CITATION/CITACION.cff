@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 message: "Si utiliza estos datos o este codigo, por favor citelos como se indica."
-title: "Mediciones horarias de temperatura y humedad de un sensor ambiental (datos de
-ejemplo)"
+title: "Mediciones horarias de temperatura y humedad de un sensor ambiental, datos ejemplo"
 authors:
 - family-names: Rojas Castillo
 given-names: Maria Paz
