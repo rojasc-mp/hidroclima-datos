@@ -1,4 +1,5 @@
 cff-version: 1.2.0
+doi: 10.5281/zenodo.22646321
 message: "Si utiliza estos datos o este codigo, por favor citelos como se indica."
 title: "Mediciones horarias de temperatura y humedad de un sensor ambiental, datos ejemplo"
 authors:
