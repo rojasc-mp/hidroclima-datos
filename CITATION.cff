@@ -2,8 +2,8 @@ cff-version: 1.0.0
 message: "Si utiliza estos datos o este codigo, por favor citelos como se indica."
 title: "Mediciones horarias de temperatura y humedad de un sensor ambiental, datos ejemplo"
 authors:
-family-names: Rojas Castillo
-given-names: Maria Paz
+family-names: Rojas
+given-names: MariaPaz
 orcid: "https://orcid.org/0009-0007-0671-7941"
 affiliation: "Universidad del Desarrollo, Doctorado en Ingenieria Aplicada"
 version: 1.0.0
